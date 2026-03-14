@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="IP Custody platform logo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <g transform="translate(80,68)">
+    <rect x="32" y="84" width="288" height="236" rx="30" fill="none" stroke="url(#accent)" stroke-width="20"/>
+    <path d="M124 84v-18c0-54 44-98 98-98s98 44 98 98v18" fill="none" stroke="#E2E8F0" stroke-linecap="round" stroke-width="18"/>
+    <circle cx="176" cy="202" r="44" fill="none" stroke="#E2E8F0" stroke-width="16"/>
+    <path d="M176 190v54" stroke="#E2E8F0" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <text x="256" y="458" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="700" fill="#E2E8F0">IP CUSTODY</text>
+</svg>
